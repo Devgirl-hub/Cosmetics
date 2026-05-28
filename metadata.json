@@ -1,0 +1,6 @@
+{
+  "name": "AURA Cosmetics & Skincare",
+  "description": "A luxury immersive cosmetics platform featuring virtual shade try-ons, custom skincare routine builders, and an AI-powered Skincare & Beauty Consultant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
